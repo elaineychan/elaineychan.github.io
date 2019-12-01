@@ -1,0 +1,17 @@
+body{
+	background:#FFFFFF;
+	width: 100%;
+}
+h1 {
+	font-family: 'Ubuntu';
+}
+
+#navbar {
+	width: 100%;
+	position: relative;
+	text-align: center;
+}
+
+#navbar-center {
+	display: inline-block;
+}
